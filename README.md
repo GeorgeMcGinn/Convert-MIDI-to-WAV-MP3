@@ -11,7 +11,7 @@ This script needs the following installed:
 - **ffmpeg** - Converts a MIDI/WAV to MP3 format (NOTE: ffmpeg must have `--enable-libmp3lame` set in order for it to create the MP3 file. You can check this by typing `ffmpeg -version` into a terminal session.)
 &nbsp;
 
-## Useage
+## Usage
 This script can be invoked from a File Manager or from a terminal session. When started, it defaults to your $HOME/Music directory. Select the location of your MIDI file. You will be able to changg the directory. Select your MID or MIDI file then click the [OK] button. 
  
 Next, the output for the WAV and MP3 files will also default to your `$HOME/Music` directory. You can change this location. Enter the file name ***WITHOUT*** any extensions. 
